@@ -1,4 +1,4 @@
-### This documentation will cover the concepts like finding gcd ,gcd by eulid's algorithm , finding primes , exception handling , classes and objects , Timer class and setting of recursion limit.
+***_This documentation will cover the concepts like finding gcd ,gcd by eulid's algorithm , finding primes , exception handling , classes and objects , Timer class and setting of recursion limit._***
 
 # Computing gcd
 ### 1st approach
