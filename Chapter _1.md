@@ -56,6 +56,8 @@ def prime(n):
     return(result)
 ```
 
+----
+
 ## Exception Handling
 
 ***Our code could generate many types of errors***
@@ -86,7 +88,7 @@ except:
 else:
     #... ← Execute if try runs without errors
 ```
-
+----
 ***Example on class and object***
 ```python
 class Point:
@@ -117,7 +119,7 @@ q = Point(5,8)
 print(p)
 print(p+q)
 ```
-
+----
 ### Incorporating Timer class in Python
 
 ```python
@@ -162,3 +164,6 @@ import sys
 sys.setrecursionlimit(10000000)
 gcd(2,99999)
 ```
+
+## End of this chapter, Congratulations for reading this section till the end :)
+Go to the [next Chapter](/Chapter_2.md)

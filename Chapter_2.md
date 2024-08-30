@@ -23,6 +23,7 @@ The time complexity of an algorithm is the amount of computer time it needs to r
  - exponential time(2<sup>n</sup>)
  - factorial time(n!)
 
+****
 
  ### Searching algorithms
 
@@ -86,6 +87,8 @@ def binarysearch(L,v):
 Best case = O(1)  
 Avg case = O(logn)  
 Worst case = O(logn)  
+
+____
 
 ## Sorting Algorithm
 
@@ -184,4 +187,5 @@ Stable - Yes
 Sort in Place - No
 
 
-## End ... Please read the Chapter 3 :)
+## End of this chapter, Congratulations for reading this section till the end :)
+Go to the [next Chapter](/Chapter_3.md)
