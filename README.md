@@ -16,3 +16,7 @@
 [Chapter 6](/Chapter_6.md)  
 
 [Chapter 7](/Chapter_7.md)  
+
+[Chapter 8](/Chapter_8.md)  
+
+[Chapter 9](/Chapter_9.md)  
